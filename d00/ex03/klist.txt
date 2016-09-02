@@ -1,0 +1,5 @@
+Credentials cache: API:21132
+        Principal: tmckinno@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 12:40:09 2016  Aug  8 22:40:09 2016  krbtgt/42.US.ORG@42.US.ORG

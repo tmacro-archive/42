@@ -1,0 +1,8 @@
+SRCS=	main.c \
+		ft_putchar.c \
+		ft_putnbr.c \
+		math.c \
+		utils.c \
+		polish.c \
+		shunt.c \
+		stack.c

@@ -1,0 +1,6 @@
+*test*
+*.un~
+*main.c
+*.swp
+*.swn
+*.swo
